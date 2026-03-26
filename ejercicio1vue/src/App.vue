@@ -87,7 +87,7 @@ export default {
       </section>
 
       <section class="image-section">
-        <img src="https://www.diariomotor.com/imagenes/2019/07/chevrolet-corvette-2020-0719-014.jpg?class=XL" alt="Corvette">
+        <img src="/corvette.jpg" alt="Corvette">
       </section>
     </div>
 
